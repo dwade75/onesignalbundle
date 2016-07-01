@@ -1,0 +1,4 @@
+services:
+    dwade75_onesignal.config_parameter_service:
+        class: Dwade75\OnesignalBundle\Service\ConfigParameter
+        arguments: ["@service_container"]

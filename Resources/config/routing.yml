@@ -1,0 +1,54 @@
+
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+
+
+dwade75_onesignal_homepage:
+    path:     /apps
+    defaults: { _controller: Dwade75OnesignalBundle:One:ooo }
+
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getAppById }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:createApp }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:editAppById }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#
+#dwade75_onesignal_homepage:
+#    path:     /apps
+#    defaults: { _controller: Dwade75OnesignalBundle:Apps/Apps:getApps }
+#

@@ -1,0 +1,17 @@
+{
+    "name": "dwade75/onesignalbundle",
+    "description": "PUSH NOTIFICATION DELIVERY AND ANALYTICS FOR WEBSITES AND MOBILE APPS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sajivan Joseph-Petrick",
+            "email": "sajivan@hotmil.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {"Dwade75\\OnesignalBundle\\": ""}
+    }
+}
